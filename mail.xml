@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<MAIL>
+	<SUBJECT>Reporte reanudacion de servicio SIXBEL (rvc)</SUBJECT>
+	<ATTACH>SIXRECREP.xlsx</ATTACH>
+	<BODY>Se adjunto archivo por automatizacion de tareas.</BODY>
+	<TO>
+		<ADD>Axe_abonados@claro.com.gt</ADD>
+		<ADD>ewsd_abonados@claro.com.gt</ADD>
+		<ADD>1240_abonados@claro.com.gt</ADD>
+		<ADD>Ut_abonados@claro.com.gt</ADD>
+		<ADD>cdms_telgua@claro.com.gt</ADD>
+	</TO>
+	<CC>
+		<ADD>hector.delosrios@claro.com.gt</ADD>
+		<ADD>ines.vasquez@claro.com.gt</ADD>
+		<ADD>eduardo.luna@claro.com.gt</ADD>
+		<ADD>amilcar.reyes@claro.com.gt</ADD>
+		<ADD>armando.reyes@claro.com.gt</ADD>
+		<ADD>cesar.esteban@claro.com.gt</ADD>
+		<ADD>angel.duarte@claro.com.gt</ADD>
+		<ADD>christian.rivas@claro.com.gt</ADD>
+		<ADD>harold.mayen@claro.com.gt</ADD>
+		<ADD>maria.hernandez@claro.com.gt</ADD>
+		<ADD>Pablo.rodriguez@claro.com.gt</ADD>
+		<ADD>mario.figueroa@claro.com.gt</ADD>
+		<ADD>Heriberto.garcia@claro.com.gt</ADD>
+	</CC>
+	<CCO>
+		<ADD>jorgea.lopez@claro.com.gt</ADD>
+	</CCO>		
+</MAIL>

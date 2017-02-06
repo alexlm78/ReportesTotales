@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<comment>PISA</comment>
+	<entry key="Server">GUA</entry>
+	<entry key="IP">172.20.5.100</entry>
+	<entry key="User">PISAFTP</entry>
+	<entry key="Pass">PISAFTP1</entry>
+	<entry key="Schema">JL637879</entry>
+</properties>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<MAIL>
+	<SUBJECT>Puebas de mail configurable</SUBJECT>
+	<ATTACH>Reportes.log</ATTACH>
+	<BODY>Se adjunto archivo por automatizacion de tareas.</BODY>
+	<TO>
+		<ADD>braulio.tobar@claro.com.gt</ADD>
+		<ADD>brauliotobar@gmail.com</ADD>
+	</TO>
+	<CC>
+		<ADD>alexlm78@gmail.com</ADD>
+	</CC>
+	<CCO>
+		<ADD>jorgea.lopez@claro.com.gt</ADD>
+	</CCO>		
+</MAIL>
